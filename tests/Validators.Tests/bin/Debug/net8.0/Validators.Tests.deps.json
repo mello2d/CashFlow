@@ -10,6 +10,9 @@
         "dependencies": {
           "CashFlow.Application": "1.0.0",
           "CashFlow.Communication": "1.0.0",
+          "CashFlow.Exception": "1.0.0",
+          "CommonTestUtilities": "1.0.0",
+          "FluentAssertions": "8.1.1",
           "Microsoft.NET.Test.Sdk": "17.8.0",
           "coverlet.collector": "6.0.0",
           "xunit": "2.5.3",
@@ -19,7 +22,23 @@
           "Validators.Tests.dll": {}
         }
       },
+      "Bogus/35.6.2": {
+        "runtime": {
+          "lib/net6.0/Bogus.dll": {
+            "assemblyVersion": "35.6.2.0",
+            "fileVersion": "35.6.2.0"
+          }
+        }
+      },
       "coverlet.collector/6.0.0": {},
+      "FluentAssertions/8.1.1": {
+        "runtime": {
+          "lib/net6.0/FluentAssertions.dll": {
+            "assemblyVersion": "8.1.1.0",
+            "fileVersion": "8.1.1.0"
+          }
+        }
+      },
       "FluentValidation/11.11.0": {
         "runtime": {
           "lib/net8.0/FluentValidation.dll": {
@@ -1078,6 +1097,18 @@
             "locale": "pt-PT"
           }
         }
+      },
+      "CommonTestUtilities/1.0.0": {
+        "dependencies": {
+          "Bogus": "35.6.2",
+          "CashFlow.Communication": "1.0.0"
+        },
+        "runtime": {
+          "CommonTestUtilities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -1087,12 +1118,26 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Bogus/35.6.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-u3XtrfDqwNDqmJiUA6AnUBGU2169av3BtBOrcgp1JZb2RVCg6P6JOTcJvXCLDd6YiRZFKxuoujiWM951Ze8D5w==",
+      "path": "bogus/35.6.2",
+      "hashPath": "bogus.35.6.2.nupkg.sha512"
+    },
     "coverlet.collector/6.0.0": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-tW3lsNS+dAEII6YGUX/VMoJjBS1QvsxqJeqLaJXub08y1FSjasFPtQ4UBUsudE9PNrzLjooClMsPtY2cZLdXpQ==",
       "path": "coverlet.collector/6.0.0",
       "hashPath": "coverlet.collector.6.0.0.nupkg.sha512"
+    },
+    "FluentAssertions/8.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tzrZ95x7TWY4panvAhVoHg5zIhg4768Cx+8ZPoKR2sDPu2oCvVeg3ts0TTL0aJlIfZ1NGxCtBP5s555AgXJozg==",
+      "path": "fluentassertions/8.1.1",
+      "hashPath": "fluentassertions.8.1.1.nupkg.sha512"
     },
     "FluentValidation/11.11.0": {
       "type": "package",
@@ -1733,6 +1778,11 @@
       "sha512": ""
     },
     "CashFlow.Exception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommonTestUtilities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

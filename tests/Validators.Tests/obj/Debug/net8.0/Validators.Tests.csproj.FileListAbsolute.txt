@@ -110,3 +110,8 @@ C:\Users\Usuário\Desktop\Estudos Dedé\Rocketseat\CSharp\CashFlow\tests\Validat
 C:\Users\Usuário\Desktop\Estudos Dedé\Rocketseat\CSharp\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
 C:\Users\Usuário\Desktop\Estudos Dedé\Rocketseat\CSharp\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
 C:\Users\Usuário\Desktop\Estudos Dedé\Rocketseat\CSharp\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll
+C:\Users\Usuário\Desktop\Estudos Dedé\Rocketseat\CSharp\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\Bogus.dll
+C:\Users\Usuário\Desktop\Estudos Dedé\Rocketseat\CSharp\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\CommonTestUtilities.dll
+C:\Users\Usuário\Desktop\Estudos Dedé\Rocketseat\CSharp\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\CommonTestUtilities.pdb
+C:\Users\Usuário\Desktop\Estudos Dedé\Rocketseat\CSharp\CashFlow\tests\Validators.Tests\obj\Debug\net8.0\Validators.Tests.sourcelink.json
+C:\Users\Usuário\Desktop\Estudos Dedé\Rocketseat\CSharp\CashFlow\tests\Validators.Tests\bin\Debug\net8.0\FluentAssertions.dll

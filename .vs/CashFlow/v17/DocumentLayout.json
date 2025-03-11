@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{5EB326D8-D744-46E8-9F3F-B61A5CF687C7}|tests\\Validators.Tests\\Validators.Tests.csproj|solutionrelative:tests\\validators.tests\\expenses\\register\\registerexpensevalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5E7EDBAD-73C9-48F1-884E-52CE18A0B1FC}|src\\CashFlow.API\\CashFlow.API.csproj|c:\\users\\usu\u00E1rio\\desktop\\estudos ded\u00E9\\rocketseat\\csharp\\cashflow\\src\\cashflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7EDBAD-73C9-48F1-884E-52CE18A0B1FC}|src\\CashFlow.API\\CashFlow.API.csproj|solutionrelative:src\\cashflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3210969-1B48-43E7-9D54-A946336740C8}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|c:\\users\\usu\u00E1rio\\desktop\\estudos ded\u00E9\\rocketseat\\csharp\\cashflow\\tests\\commontestutilities\\requests\\requestregisterexpensejsonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3210969-1B48-43E7-9D54-A946336740C8}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|solutionrelative:tests\\commontestutilities\\requests\\requestregisterexpensejsonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F2E7DE32-D955-4FEE-BB3D-F79AF0DDDCCE}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\usu\u00E1rio\\desktop\\estudos ded\u00E9\\rocketseat\\csharp\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2E7DE32-D955-4FEE-BB3D-F79AF0DDDCCE}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5E7EDBAD-73C9-48F1-884E-52CE18A0B1FC}|src\\CashFlow.API\\CashFlow.API.csproj|c:\\users\\usu\u00E1rio\\desktop\\estudos ded\u00E9\\rocketseat\\csharp\\cashflow\\src\\cashflow.api\\middleware\\culturemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E7EDBAD-73C9-48F1-884E-52CE18A0B1FC}|src\\CashFlow.API\\CashFlow.API.csproj|solutionrelative:src\\cashflow.api\\middleware\\culturemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E7EDBAD-73C9-48F1-884E-52CE18A0B1FC}|src\\CashFlow.API\\CashFlow.API.csproj|c:\\users\\usu\u00E1rio\\desktop\\estudos ded\u00E9\\rocketseat\\csharp\\cashflow\\src\\cashflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E7EDBAD-73C9-48F1-884E-52CE18A0B1FC}|src\\CashFlow.API\\CashFlow.API.csproj|solutionrelative:src\\cashflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Desktop\\Estudos Ded\u00E9\\Rocketseat\\CSharp\\CashFlow\\src\\CashFlow.API\\Program.cs",
               "RelativeDocumentMoniker": "src\\CashFlow.API\\Program.cs",
               "ToolTip": "C:\\Users\\Usu\u00E1rio\\Desktop\\Estudos Ded\u00E9\\Rocketseat\\CSharp\\CashFlow\\src\\CashFlow.API\\Program.cs",
               "RelativeToolTip": "src\\CashFlow.API\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T17:05:38.618Z",
               "IsPinned": true
@@ -51,46 +55,56 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestRegisterExpenseJsonBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Desktop\\Estudos Ded\u00E9\\Rocketseat\\CSharp\\CashFlow\\tests\\CommonTestUtilities\\Requests\\RequestRegisterExpenseJsonBuilder.cs",
+              "RelativeDocumentMoniker": "tests\\CommonTestUtilities\\Requests\\RequestRegisterExpenseJsonBuilder.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Desktop\\Estudos Ded\u00E9\\Rocketseat\\CSharp\\CashFlow\\tests\\CommonTestUtilities\\Requests\\RequestRegisterExpenseJsonBuilder.cs",
+              "RelativeToolTip": "tests\\CommonTestUtilities\\Requests\\RequestRegisterExpenseJsonBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T22:49:52.733Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "RegisterExpenseValidatorTests.cs",
               "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Desktop\\Estudos Ded\u00E9\\Rocketseat\\CSharp\\CashFlow\\tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
               "RelativeDocumentMoniker": "tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
               "ToolTip": "C:\\Users\\Usu\u00E1rio\\Desktop\\Estudos Ded\u00E9\\Rocketseat\\CSharp\\CashFlow\\tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
               "RelativeToolTip": "tests\\Validators.Tests\\Expenses\\Register\\RegisterExpenseValidatorTests.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T17:53:30.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "RegisterExpenseUseCase.cs",
               "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Desktop\\Estudos Ded\u00E9\\Rocketseat\\CSharp\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
               "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
               "ToolTip": "C:\\Users\\Usu\u00E1rio\\Desktop\\Estudos Ded\u00E9\\Rocketseat\\CSharp\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
               "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T21:01:45.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T21:01:45.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CultureMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Desktop\\Estudos Ded\u00E9\\Rocketseat\\CSharp\\CashFlow\\src\\CashFlow.API\\Middleware\\CultureMiddleware.cs",
               "RelativeDocumentMoniker": "src\\CashFlow.API\\Middleware\\CultureMiddleware.cs",
               "ToolTip": "C:\\Users\\Usu\u00E1rio\\Desktop\\Estudos Ded\u00E9\\Rocketseat\\CSharp\\CashFlow\\src\\CashFlow.API\\Middleware\\CultureMiddleware.cs",
               "RelativeToolTip": "src\\CashFlow.API\\Middleware\\CultureMiddleware.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T22:23:55.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T22:23:55.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ExpensesController.cs",
               "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Desktop\\Estudos Ded\u00E9\\Rocketseat\\CSharp\\CashFlow\\src\\CashFlow.API\\Controllers\\ExpensesController.cs",
               "RelativeDocumentMoniker": "src\\CashFlow.API\\Controllers\\ExpensesController.cs",
@@ -98,8 +112,7 @@
               "RelativeToolTip": "src\\CashFlow.API\\Controllers\\ExpensesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T22:24:31.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T22:24:31.744Z"
             }
           ]
         }
